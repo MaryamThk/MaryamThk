@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MaryamThk
-- 👀 I’m interested in ...(idk yet)
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on (idk anything)
-- 📫 How to reach me (maryam.tehraniikiia@gmail.com)
+- 👀 I’m interested in Machine learning
+- 🌱 I’m currently working on a online website market place
+- 📫 How to reach me (maryam.tehranikia@gmail.com)
 
 <!---
 MaryamThk/MaryamThk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
